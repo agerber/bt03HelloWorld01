@@ -1,0 +1,3 @@
+change the main layout to linear layout by right-clicking on it in the 
+outline view.
+

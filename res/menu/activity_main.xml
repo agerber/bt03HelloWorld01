@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+
+    
+        <item
+        android:id="@+id/mnu_toast"
+        android:orderInCategory="200"
+        android:showAsAction="never"
+        android:title="toast"/>
+        
+        <!--android:showAsAction="ifRoom|withText"
+        android:showAsAction="ifRoom" -->
+        <item
+        android:id="@+id/mnu_alert"
+        android:orderInCategory="300"
+        android:showAsAction="never"
+        android:title="alert"/>
+
+</menu>
